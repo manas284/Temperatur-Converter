@@ -1,0 +1,35 @@
+body{
+  background-color: gray;
+  text-align: center;
+  max-width: 500px;
+  position: relative;
+}
+h1{
+  background-color: navajowhite;
+  text-align: center;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+#input{
+  text-align: center;
+  padding: 15px 20px;
+  font-size: larger;
+  border: 2px solid black;
+
+}
+label{
+  font-size: large;
+  color: hsla(0, 0%, 0%, 0.349);
+}
+#mybutton{
+  background-color: red;
+  margin: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+#display{
+  font-size: large;
+}
+div{
+  text-align: center;
+}
